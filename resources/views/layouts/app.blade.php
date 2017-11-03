@@ -19,6 +19,8 @@
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 
+    {!! Charts::styles() !!}
+
 </head>
 <body>
     <div id="app">
